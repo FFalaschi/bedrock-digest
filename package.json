@@ -12,6 +12,7 @@
     "format:check": "prettier --check ."
   },
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.95.1",
     "@react-email/components": "^1.0.12",
     "@supabase/supabase-js": "^2.105.3",
     "next": "16.2.6",
