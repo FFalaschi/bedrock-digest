@@ -35,9 +35,9 @@ export const RSS_SOURCES: RssSource[] = [
     url: 'https://www.nngroup.com/feed/rss/',
   },
   {
-    slug: 'figma-blog',
-    name: 'Figma Blog',
-    url: 'https://www.figma.com/blog/rss.xml',
+    slug: 'a-list-apart',
+    name: 'A List Apart',
+    url: 'https://alistapart.com/main/feed/',
   },
   {
     slug: 'wired-design',

@@ -2,7 +2,7 @@ import type { AdapterResult, FeedItem } from '../types';
 import { canonicalizeUrl } from '../url';
 
 // Lobste.rs JSON API — design and programming tags are good signal for our digest.
-const TAGS = ['design', 'ai', 'ux'];
+const TAGS = ['design', 'ai'];
 const FETCH_TIMEOUT_MS = 10_000;
 
 interface LobstersStory {
